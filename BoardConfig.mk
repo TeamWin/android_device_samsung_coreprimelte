@@ -49,3 +49,5 @@ BOARD_HAS_NO_REAL_SDCARD := true
 TW_NO_REBOOT_BOOTLOADER := true
 TW_HAS_DOWNLOAD_MODE := true
 TW_MTP_DEVICE := /dev/usb_mtp_gadget
+# original path was /sys/devices/soc.0/1a00000.qcom,mdss_mdp/qcom,mdss_fb_primary.133/leds/lcd-backlight/brightness
+TW_BRIGHTNESS_PATH := "/sys/devices/soc.0/1a00000.qcom\x2cmdss_mdp/qcom\x2cmdss_fb_primary.133/leds/lcd-backlight/brightness"
