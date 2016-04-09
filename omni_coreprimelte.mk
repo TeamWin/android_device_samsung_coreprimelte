@@ -32,9 +32,9 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_NAME := omni_coreprimelte
 PRODUCT_DEVICE := coreprimelte
-PRODUCT_BRAND := Oppo
+PRODUCT_BRAND := samsung
 PRODUCT_MODEL := R7f
-PRODUCT_MANUFACTURER := Oppo
+PRODUCT_MANUFACTURER := samsung
 
 # Kernel inline build
 #TARGET_KERNEL_CONFIG := coreprimelte_defconfig
