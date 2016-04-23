@@ -33,7 +33,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_NAME := omni_coreprimelte
 PRODUCT_DEVICE := coreprimelte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := R7f
+PRODUCT_MODEL := SM-G360
 PRODUCT_MANUFACTURER := samsung
 
 # Kernel inline build
